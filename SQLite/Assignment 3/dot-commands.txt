@@ -1,0 +1,13 @@
+Here are some dot commands you may need:
+
+.mode column (each record is shown on a separate line with the data aligned in columns)
+.header on   ( print  column labels as the first row of output)
+.tables      (list of the tables in the database)
+.schema      (shows the original CREATE TABLE for each table)
+
+This would allocate 15 spaces for 3-column output. 
+You may need more columns and/or  more or less space. 
+.width 15 15 15 
+
+.quit       (exit the command line interface)
+ 

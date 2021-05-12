@@ -1,0 +1,5 @@
+TitleID,Title,Description,EducationRequired,MinimumSalary,MaximumSalary,Raise
+T01,Account Rep,Marketing,Four-year degree,$25000,$75000,.03
+T02,Manager,Supervisory,Four-year degree,$50000,$150000,.04
+T03,Trainee,Entry-level,Two-year degree,$18000,$25000,.035
+T04,SeniorRep,Sales Manager,Four-Year Degree,$45000,$150000,.04
